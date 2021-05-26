@@ -1914,3 +1914,238 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-19.31.55:573][204]LogContentValidation: Display: Validating StaticMesh /Game/magok_ALL/Geometries/Freeform_steel.Freeform_steel
 [2021.05.26-19.32.17:355][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
 [2021.05.26-19.32.27:648][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.26-19.52.07:777][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.05.26-19.52.11:748][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.26-19.53.15:343][276]Cmd: DELETE
+[2021.05.26-19.53.15:344][276]Cmd: ACTOR DELETE
+[2021.05.26-19.53.15:357][276]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-19.53.15:363][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.05.26-19.53.15:364][276]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.05.26-19.53.18:204][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.26-19.53.19:920][362]LogSlate: Window 'Save Content' being destroyed
+[2021.05.26-19.53.19:962][362]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.26-19.53.19:966][362]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/03_AC_ETFCE5F4EA0A4CEEE2C4F1EF06A65EDAB929.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/03_AC_ETFC.umap'
+[2021.05.26-19.53.19:968][362]LogFileHelpers: Saving map '03_AC_ETFC' took 0.011
+[2021.05.26-19.53.19:981][362]AssetCheck: New page: Asset Save: 03_AC_ETFC
+[2021.05.26-19.53.19:981][362]LogContentValidation: Display: Validating World /Game/Level/03_AC_ETFC.03_AC_ETFC
+[2021.05.26-19.53.27:832][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.26-19.54.51:386][ 27]LogActorFactory: Actor Factory created ETF_FRM_All
+[2021.05.26-19.54.52:699][ 40]LogActorFactory: Actor Factory created ETF_FRM_All
+[2021.05.26-19.54.53:351][ 47]Cmd: DELETE
+[2021.05.26-19.54.53:351][ 47]Cmd: ACTOR DELETE
+[2021.05.26-19.54.53:363][ 47]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-19.54.53:496][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.05.26-19.54.53:500][ 47]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2021.05.26-19.54.59:390][290]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0.SBG_ETF_FRM_GR8_nwc_0
+[2021.05.26-19.55.00:155][290]LogRenderer: Reallocating scene render targets to support 1180x900 Format 26 NumSamples 1 (Frame:1).
+[2021.05.26-19.55.00:155][290]LogSlate: Took 0.006420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.26-19.55.00:159][290]LogStaticMesh: Allocated 16x8x12 distance field atlas = 0.0Mb, with 1 objects containing 0.0Mb backing data
+[2021.05.26-19.55.02:586][382]LogSlate: Window 'SBG_ETF_FRM_GR8_nwc_0' being destroyed
+[2021.05.26-19.55.02:595][382]LogSlate: Window 'SBG_ETF_FRM_GR8_nwc_0' being destroyed
+[2021.05.26-19.55.02:599][382]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.05.26-19.55.02:599][382]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.26-19.55.09:178][938]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.55.09:178][938]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.55.09:188][938]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.55.09:188][938]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.55.16:010][938]LogStaticMesh: Warning: SBG_ETF_FRM_GR8_nwc_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.55.16:010][938]LogStaticMesh: Warning: SBG_ETF_FRM_GR8_nwc_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.55.30:117][367]LogEditorViewport: Clicking Background
+[2021.05.26-19.56.09:639][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.09:639][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.56.15:779][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR1_nwc_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.15:779][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR1_nwc_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.17:161][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.17:161][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.56.25:398][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR2_nwc_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.25:398][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR2_nwc_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.27:364][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.27:364][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.56.33:087][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR3_nwc_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.33:087][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR3_nwc_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.34:380][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.34:380][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.56.40:277][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR4_nwc_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.40:277][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR4_nwc_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.56.41:543][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.41:543][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.56.47:773][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.47:773][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.56.57:349][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.56.57:349][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.57.08:215][340]LogWindows: Failed to load 'libalias_api.dll' (GetLastError=126)
+[2021.05.26-19.57.08:215][340]LogWindows: File 'libalias_api.dll' does not exist
+[2021.05.26-19.57.12:772][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR8_nwc_0 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.57.12:772][340]LogStaticMesh: Warning: SBG_ETF_FRM_GR8_nwc_0 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.05.26-19.57.13:828][340]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ETF_All)
+[2021.05.26-19.57.14:706][340]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (ETF_All)
+[2021.05.26-19.57.22:324][740]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.26-19.57.23:151][768]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.05.26-19.57.26:620][861]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR6_nwc_0
+[2021.05.26-19.57.29:506][148]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR6_nwc_0
+[2021.05.26-19.58.00:716][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.26-19.58.05:843][925]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.26-19.58.05:861][925]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/magok_ALL/Geometries/ETF_FRM_All.ETF_FRM_All
+[2021.05.26-19.58.06:147][925]LogObjectTools: Warning: Detected inconsistencies between reference gathering algorithms. Switching 'Editor.UseLegacyGetReferencersForDeletion' on for the remainder of this editor session.
+[2021.05.26-19.58.07:156][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.05.26-19.58.07:190][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2021.05.26-19.58.07:195][925]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.05.26-19.58.09:536][975]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR8_nwc_0
+[2021.05.26-19.58.09:919][  6]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR8_nwc_0
+[2021.05.26-19.58.12:671][ 36]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR8_nwc_0
+[2021.05.26-19.58.13:723][ 49]Cmd: DELETE
+[2021.05.26-19.58.13:723][ 49]Cmd: ACTOR DELETE
+[2021.05.26-19.58.13:736][ 49]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-19.58.13:824][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.26-19.58.13:825][ 49]LogEditorActor: Deleted 1 Actors (0.102 secs)
+[2021.05.26-19.58.32:126][492]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR8_nwc_0
+[2021.05.26-19.58.33:452][504]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR8_nwc_0
+[2021.05.26-19.58.48:427][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR7_nwc_0
+[2021.05.26-19.58.48:428][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR1_nwc_0
+[2021.05.26-19.58.48:430][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR2_nwc_0
+[2021.05.26-19.58.48:430][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR3_nwc_0
+[2021.05.26-19.58.48:431][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR4_nwc_0
+[2021.05.26-19.58.48:432][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR5_nwc_0
+[2021.05.26-19.58.48:433][712]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR6_nwc_0
+[2021.05.26-19.58.49:014][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR7_nwc_0
+[2021.05.26-19.58.49:028][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR1_nwc_0
+[2021.05.26-19.58.49:042][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR2_nwc_0
+[2021.05.26-19.58.49:055][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR3_nwc_0
+[2021.05.26-19.58.49:069][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR4_nwc_0
+[2021.05.26-19.58.49:083][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR5_nwc_0
+[2021.05.26-19.58.49:096][715]LogActorFactory: Actor Factory created SBG_ETF_FRM_GR6_nwc_0
+[2021.05.26-20.01.48:824][651]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.05.26-20.04.33:310][651]LogStaticMesh: Building static mesh ETF_FRM_GR1_2_3_4...
+[2021.05.26-20.04.42:665][651]LogStaticMesh: Built static mesh [9.36s] /Game/magok_ALL/ETF_FRM_GR1_2_3_4.ETF_FRM_GR1_2_3_4
+[2021.05.26-20.04.56:700][667]LogSlate: Window 'Merge Actors' being destroyed
+[2021.05.26-20.04.56:712][667]LogSlate: Window 'Merge Actors' being destroyed
+[2021.05.26-20.05.05:684][172]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.26-20.05.05:733][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/03_AC_ETFC_Auto42DA7737C46AAA2EF82E091B744964BC3.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/Level/03_AC_ETFC_Auto4.umap'
+[2021.05.26-20.05.05:739][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/03_AC_Freeform_Facade_Auto453D83FE74C88930A6D3EFCAA14D42FC4.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/Level/03_AC_Freeform_Facade_Auto4.umap'
+[2021.05.26-20.05.05:740][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VirtualRealityBP/Maps/StartupMap' took 0.064
+[2021.05.26-20.05.05:740][172]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2021.05.26-20.05.05:741][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.05:752][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0.SBG_ETF_FRM_GR7_nwc_0]
+[2021.05.26-20.05.05:752][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0]
+[2021.05.26-20.05.06:087][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR7_nwc_0_Auto42D71F32D46DC3E25B842D5860ACD9358.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.06:088][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.06:097][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0.SBG_ETF_FRM_GR6_nwc_0]
+[2021.05.26-20.05.06:097][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0]
+[2021.05.26-20.05.06:385][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR6_nwc_0_Auto4F3A96D4C4D36D9205B19D29ECD8D66BA.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.06:386][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.06:395][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0.SBG_ETF_FRM_GR5_nwc_0]
+[2021.05.26-20.05.06:395][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0]
+[2021.05.26-20.05.06:603][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR5_nwc_0_Auto482B2EE7A484CEFBB0858AD838FF3FBDC.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.06:604][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.06:613][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0.SBG_ETF_FRM_GR4_nwc_0]
+[2021.05.26-20.05.06:613][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0]
+[2021.05.26-20.05.06:841][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR4_nwc_0_Auto4030EAACA48B743007D18C0B7DBB83A1B.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.06:842][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.06:851][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0.SBG_ETF_FRM_GR3_nwc_0]
+[2021.05.26-20.05.06:851][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0]
+[2021.05.26-20.05.07:078][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR3_nwc_0_Auto4B59E101F4452BCD5EA833782A49C14E6.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.07:080][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.07:088][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0.SBG_ETF_FRM_GR2_nwc_0]
+[2021.05.26-20.05.07:089][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0]
+[2021.05.26-20.05.07:422][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR2_nwc_0_Auto4FDD057CF4171417B312A92BBBB1CB974.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.07:424][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.07:432][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0.SBG_ETF_FRM_GR1_nwc_0]
+[2021.05.26-20.05.07:432][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0]
+[2021.05.26-20.05.07:675][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR1_nwc_0_Auto48FC199B74C02D9C096430AADD3616E48.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.07:676][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0] ([1] browsable assets)...
+[2021.05.26-20.05.07:685][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0.SBG_ETF_FRM_GR8_nwc_0]
+[2021.05.26-20.05.07:685][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0]
+[2021.05.26-20.05.07:887][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/SBG_ETF_FRM_GR8_nwc_0_Auto488A8F5C345658F86A8D68685D3819CCC.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0_Auto4.uasset'
+[2021.05.26-20.05.07:888][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/magok_ALL/ETF_FRM_GR1_2_3_4] ([1] browsable assets)...
+[2021.05.26-20.05.07:897][172]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/magok_ALL/ETF_FRM_GR1_2_3_4.ETF_FRM_GR1_2_3_4]
+[2021.05.26-20.05.07:897][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/magok_ALL/ETF_FRM_GR1_2_3_4]
+[2021.05.26-20.05.08:870][172]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/ETF_FRM_GR1_2_3_4_Auto4B8AD2383465C8CF7F32CAAA43D8ADA78.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/Autosaves/Game/magok_ALL/ETF_FRM_GR1_2_3_4_Auto4.uasset'
+[2021.05.26-20.05.08:871][172]LogFileHelpers: Auto-saving content packages took 3.131
+[2021.05.26-20.05.17:497][424]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/ETF_FRM_GR1_2_3_432F8E4AF41A428CD8515E4951CBCFB48.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/magok_ALL/Geometries/ETF_FRM_GR1_2_3_4.uasset'
+[2021.05.26-20.05.17:698][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.05.26-20.05.17:712][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.05.26-20.05.17:717][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.26-20.05.17:810][424]AssetCheck: New page: Asset Save: ETF_FRM_GR1_2_3_4
+[2021.05.26-20.05.17:810][424]LogContentValidation: Display: Validating StaticMesh /Game/magok_ALL/Geometries/ETF_FRM_GR1_2_3_4.ETF_FRM_GR1_2_3_4
+[2021.05.26-20.05.53:666][ 68]LogSlate: Window 'Create Merged Actor' being destroyed
+[2021.05.26-20.11.20:389][ 68]LogStaticMesh: Building static mesh ETF_FRM_GR5_6_7_8...
+[2021.05.26-20.11.31:878][ 68]LogStaticMesh: Built static mesh [11.49s] /Game/magok_ALL/Geometries/ETF_FRM_GR5_6_7_8.ETF_FRM_GR5_6_7_8
+[2021.05.26-20.11.43:024][ 71]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.11.43:024][ 71]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.11.43:024][ 71]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.11.43:024][ 71]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.11.43:355][ 72]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.11.47:708][ 85]LogSlate: Window 'Merge Actors' being destroyed
+[2021.05.26-20.11.47:721][ 85]LogSlate: Window 'Merge Actors' being destroyed
+[2021.05.26-20.13.01:457][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-20.13.01:458][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-20.13.01:465][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.26-20.13.01:513][223]LogEditorActor: Deleted 2 Actors (0.066 secs)
+[2021.05.26-20.13.05:092][391]EditorErrors: New page: Actor attachment
+[2021.05.26-20.13.32:289][757]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.13.32:420][757]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.13.32:421][757]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2021.05.26-20.13.32:438][757]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2021.05.26-20.13.56:273][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.05.26-20.14.02:259][ 43]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.26-20.14.02:578][ 43]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0.SBG_ETF_FRM_GR8_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0.SBG_ETF_FRM_GR1_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0.SBG_ETF_FRM_GR2_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0.SBG_ETF_FRM_GR3_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0.SBG_ETF_FRM_GR4_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0.SBG_ETF_FRM_GR5_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0.SBG_ETF_FRM_GR6_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0.SBG_ETF_FRM_GR7_nwc_0
+[2021.05.26-20.14.04:972][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.26-20.14.05:121][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.05.26-20.14.05:127][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.26-20.14.05:133][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.26-20.14.05:139][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.26-20.14.05:144][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.05.26-20.14.05:151][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.26-20.14.05:156][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.26-20.14.05:163][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.05.26-20.14.05:169][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.26-20.14.27:933][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.05.26-20.14.31:706][326]LogSlate: Window 'Delete Assets' being destroyed
+[2021.05.26-20.14.31:864][326]LogUObjectGlobals: Force Deleting 8 Package(s):
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR1_ALL_nwc_0.SBG_ETF_FAB_GR1_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR2_ALL_nwc_0.SBG_ETF_FAB_GR2_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR3_ALL_nwc_0.SBG_ETF_FAB_GR3_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR4_ALL_nwc_0.SBG_ETF_FAB_GR4_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR5_ALL_nwc_0.SBG_ETF_FAB_GR5_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR6_ALL_nwc_0.SBG_ETF_FAB_GR6_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR7_ALL_nwc_0.SBG_ETF_FAB_GR7_ALL_nwc_0
+	Asset Name: /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR8_ALL_nwc_0.SBG_ETF_FAB_GR8_ALL_nwc_0
+[2021.05.26-20.14.33:402][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.05.26-20.14.33:410][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.26-20.14.33:415][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.26-20.14.33:421][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.26-20.14.33:426][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.26-20.14.33:431][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.26-20.14.33:436][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.26-20.14.33:442][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.05.26-20.14.33:449][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2021.05.26-20.14.33:454][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.05.26-20.14.37:182][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.05.26-20.14.38:529][361]LogSlate: Window 'Save Content' being destroyed
+[2021.05.26-20.14.38:585][361]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.26-20.14.38:589][361]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/03_AC_ETFCBA1A7C9F449448C210ED279F4D9C495D.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/03_AC_ETFC.umap'
+[2021.05.26-20.14.38:590][361]LogFileHelpers: Saving map '03_AC_ETFC' took 0.011
+[2021.05.26-20.14.38:596][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2021.05.26-20.14.38:600][361]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/03_AC_Freeform_Facade7B6D23A24DDECEC07CC5FBBD311676C1.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/03_AC_Freeform_Facade.umap'
+[2021.05.26-20.14.38:602][361]LogFileHelpers: Saving map '03_AC_Freeform_Facade' took 0.012
+[2021.05.26-20.14.39:784][361]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/ETF_FRM_GR5_6_7_89DC6D1224D6824238650B5A12A874D45.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/magok_ALL/Geometries/ETF_FRM_GR5_6_7_8.uasset'
+[2021.05.26-20.14.39:845][361]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-20.14.39:845][361]LogContentValidation: Display: Validating World /Game/Level/03_AC_ETFC.03_AC_ETFC
+[2021.05.26-20.14.39:846][361]LogContentValidation: Display: Validating World /Game/Level/03_AC_Freeform_Facade.03_AC_Freeform_Facade
+[2021.05.26-20.14.39:846][361]LogContentValidation: Display: Validating StaticMesh /Game/magok_ALL/Geometries/ETF_FRM_GR5_6_7_8.ETF_FRM_GR5_6_7_8
