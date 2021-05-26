@@ -2203,3 +2203,107 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-20.35.07:243][100]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.26-20.35.07:243][100]LogContentValidation: Display: Validating World /Game/Level/02_AS_Building_Structure.02_AS_Building_Structure
 [2021.05.26-20.35.07:243][100]LogContentValidation: Display: Validating World /Game/Level/03_AC_ETFC.03_AC_ETFC
+[2021.05.26-20.41.04:370][178]LogLinker: Warning: Failed to load '/Game/Level/2_Level0_OutSide2': Can't find file.
+[2021.05.26-20.41.04:371][178]LogLinker: Warning: Failed to load '/Game/Level/2_Level0_OutSide2': Can't find file.
+[2021.05.26-20.41.04:371][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Level/2_Level0_OutSide2.2_Level0_OutSide2'
+[2021.05.26-20.41.04:371][178]LogLinker: Warning: Failed to load '/Game/Level/Partition': Can't find file.
+[2021.05.26-20.41.04:371][178]LogLinker: Warning: Failed to load '/Game/Level/Partition': Can't find file.
+[2021.05.26-20.41.04:371][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Level/Partition.Partition'
+[2021.05.26-20.41.04:384][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/AO': Can't find file.
+[2021.05.26-20.41.04:384][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/AO': Can't find file.
+[2021.05.26-20.41.04:385][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/AO.AO'
+[2021.05.26-20.41.04:391][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Albedo': Can't find file.
+[2021.05.26-20.41.04:391][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Albedo': Can't find file.
+[2021.05.26-20.41.04:391][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/Albedo.Albedo'
+[2021.05.26-20.41.04:391][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/AlbedoVT': Can't find file.
+[2021.05.26-20.41.04:391][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/AlbedoVT': Can't find file.
+[2021.05.26-20.41.04:391][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/AlbedoVT.AlbedoVT'
+[2021.05.26-20.41.04:392][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Displacement': Can't find file.
+[2021.05.26-20.41.04:392][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Displacement': Can't find file.
+[2021.05.26-20.41.04:392][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/Displacement.Displacement'
+[2021.05.26-20.41.04:392][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.05.26-20.41.04:392][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Metalness': Can't find file.
+[2021.05.26-20.41.04:392][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/Metalness.Metalness'
+[2021.05.26-20.41.04:392][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/MetalnessVT': Can't find file.
+[2021.05.26-20.41.04:393][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/MetalnessVT': Can't find file.
+[2021.05.26-20.41.04:393][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/MetalnessVT.MetalnessVT'
+[2021.05.26-20.41.04:393][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Normal': Can't find file.
+[2021.05.26-20.41.04:393][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Normal': Can't find file.
+[2021.05.26-20.41.04:393][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/Normal.Normal'
+[2021.05.26-20.41.04:393][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/NormalVT': Can't find file.
+[2021.05.26-20.41.04:393][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/NormalVT': Can't find file.
+[2021.05.26-20.41.04:394][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/NormalVT.NormalVT'
+[2021.05.26-20.41.04:394][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Roughness': Can't find file.
+[2021.05.26-20.41.04:394][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/Roughness': Can't find file.
+[2021.05.26-20.41.04:394][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/Roughness.Roughness'
+[2021.05.26-20.41.04:394][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/RoughnessVT': Can't find file.
+[2021.05.26-20.41.04:394][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/RoughnessVT': Can't find file.
+[2021.05.26-20.41.04:394][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/RoughnessVT.RoughnessVT'
+[2021.05.26-20.41.04:395][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/noise_mask': Can't find file.
+[2021.05.26-20.41.04:395][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/noise_mask': Can't find file.
+[2021.05.26-20.41.04:395][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/noise_mask.noise_mask'
+[2021.05.26-20.41.04:395][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/noise_normal': Can't find file.
+[2021.05.26-20.41.04:395][178]LogLinker: Warning: Failed to load '/Game/MSPresets/MSTextures/noise_normal': Can't find file.
+[2021.05.26-20.41.04:395][178]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MSPresets/MSTextures/noise_normal.noise_normal'
+[2021.05.26-20.43.58:820][ 45]LogActorFactory: Actor Factory created Cube
+[2021.05.26-20.44.01:579][ 81]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2021.05.26-20.44.01:588][ 81]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2021.05.26-20.44.01:589][ 81]LogActorFactory: Actor Factory created Cube
+[2021.05.26-20.44.04:559][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.05.26-20.44.05:913][297]LogSlate: Window 'Save Content' being destroyed
+[2021.05.26-20.44.05:959][297]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.05.26-20.44.06:481][297]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/02_AS_Building_StructureA162BD154057FF7BF5800FAF4B540713.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/02_AS_Building_Structure.umap'
+[2021.05.26-20.44.06:484][297]LogFileHelpers: Saving map '02_AS_Building_Structure' took 0.533
+[2021.05.26-20.44.06:499][297]AssetCheck: New page: Asset Save: 02_AS_Building_Structure
+[2021.05.26-20.44.06:499][297]LogContentValidation: Display: Validating World /Game/Level/02_AS_Building_Structure.02_AS_Building_Structure
+[2021.05.26-20.48.39:768][241]LogLinker: Warning: Failed to load '/Game/Level/04_MEP_Eng_Elec': Can't find file.
+[2021.05.26-20.48.39:768][241]LogLinker: Warning: Failed to load '/Game/Level/04_MEP_Eng_Elec': Can't find file.
+[2021.05.26-20.48.39:768][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Level/04_MEP_Eng_Elec.04_MEP_Eng_Elec'
+[2021.05.26-20.48.39:769][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR1_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:769][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR1_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:769][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR1_ALL_nwc_0.SBG_ETF_FAB_GR1_ALL_nwc_0'
+[2021.05.26-20.48.39:769][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR2_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:769][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR2_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:769][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR2_ALL_nwc_0.SBG_ETF_FAB_GR2_ALL_nwc_0'
+[2021.05.26-20.48.39:770][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR3_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:770][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR3_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:770][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR3_ALL_nwc_0.SBG_ETF_FAB_GR3_ALL_nwc_0'
+[2021.05.26-20.48.39:770][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR4_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:770][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR4_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:770][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR4_ALL_nwc_0.SBG_ETF_FAB_GR4_ALL_nwc_0'
+[2021.05.26-20.48.39:771][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR5_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:771][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR5_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:771][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR5_ALL_nwc_0.SBG_ETF_FAB_GR5_ALL_nwc_0'
+[2021.05.26-20.48.39:771][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR6_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:771][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR6_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:771][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR6_ALL_nwc_0.SBG_ETF_FAB_GR6_ALL_nwc_0'
+[2021.05.26-20.48.39:771][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR7_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:772][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR7_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:772][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR7_ALL_nwc_0.SBG_ETF_FAB_GR7_ALL_nwc_0'
+[2021.05.26-20.48.39:772][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR8_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:772][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FAB_GR8_ALL_nwc_0': Can't find file.
+[2021.05.26-20.48.39:772][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FAB_GR8_ALL_nwc_0.SBG_ETF_FAB_GR8_ALL_nwc_0'
+[2021.05.26-20.48.39:772][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0': Can't find file.
+[2021.05.26-20.48.39:772][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0': Can't find file.
+[2021.05.26-20.48.39:772][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR1_nwc_0.SBG_ETF_FRM_GR1_nwc_0'
+[2021.05.26-20.48.39:773][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0': Can't find file.
+[2021.05.26-20.48.39:773][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0': Can't find file.
+[2021.05.26-20.48.39:773][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR2_nwc_0.SBG_ETF_FRM_GR2_nwc_0'
+[2021.05.26-20.48.39:773][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0': Can't find file.
+[2021.05.26-20.48.39:773][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0': Can't find file.
+[2021.05.26-20.48.39:773][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR3_nwc_0.SBG_ETF_FRM_GR3_nwc_0'
+[2021.05.26-20.48.39:773][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0': Can't find file.
+[2021.05.26-20.48.39:774][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0': Can't find file.
+[2021.05.26-20.48.39:774][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR4_nwc_0.SBG_ETF_FRM_GR4_nwc_0'
+[2021.05.26-20.48.39:774][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0': Can't find file.
+[2021.05.26-20.48.39:774][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0': Can't find file.
+[2021.05.26-20.48.39:774][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR5_nwc_0.SBG_ETF_FRM_GR5_nwc_0'
+[2021.05.26-20.48.39:774][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0': Can't find file.
+[2021.05.26-20.48.39:774][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0': Can't find file.
+[2021.05.26-20.48.39:774][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR6_nwc_0.SBG_ETF_FRM_GR6_nwc_0'
+[2021.05.26-20.48.39:775][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0': Can't find file.
+[2021.05.26-20.48.39:775][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0': Can't find file.
+[2021.05.26-20.48.39:775][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR7_nwc_0.SBG_ETF_FRM_GR7_nwc_0'
+[2021.05.26-20.48.39:775][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0': Can't find file.
+[2021.05.26-20.48.39:775][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0': Can't find file.
+[2021.05.26-20.48.39:775][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0.SBG_ETF_FRM_GR8_nwc_0'
