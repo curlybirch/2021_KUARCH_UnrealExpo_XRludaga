@@ -2307,3 +2307,53 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-20.48.39:775][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0': Can't find file.
 [2021.05.26-20.48.39:775][241]LogLinker: Warning: Failed to load '/Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0': Can't find file.
 [2021.05.26-20.48.39:775][241]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/magok_ALL/Geometries/SBG_ETF_FRM_GR8_nwc_0.SBG_ETF_FRM_GR8_nwc_0'
+[2021.05.26-20.49.52:803][637]Cmd: DELETE
+[2021.05.26-20.49.52:803][637]Cmd: ACTOR DELETE
+[2021.05.26-20.49.52:825][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-20.49.52:832][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.05.26-20.49.52:834][637]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.05.26-20.50.04:931][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_Main_수정해야함)
+[2021.05.26-20.51.58:418][834]Cmd: SELECT NONE
+[2021.05.26-20.51.58:636][837]Cmd: SELECT NONE
+[2021.05.26-20.52.01:125][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_Main_수정해야함)
+[2021.05.26-20.52.16:873][210]Cmd: SELECT NONE
+[2021.05.26-20.52.17:093][213]Cmd: SELECT NONE
+[2021.05.26-20.52.58:423][ 49]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Object__steel_block_0)
+[2021.05.26-20.53.18:789][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PO_2_3)
+[2021.05.26-20.53.23:078][528]LogEditorViewport: Clicking Background
+[2021.05.26-20.53.26:882][829]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (3D)
+[2021.05.26-20.53.28:223][903]LogEditorViewport: Clicking Background
+[2021.05.26-20.54.07:800][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_0_8)
+[2021.05.26-20.55.14:932][561]EditorErrors: New page: Actor attachment
+[2021.05.26-20.55.21:626][949]EditorErrors: New page: Actor attachment
+[2021.05.26-20.55.27:288][278]EditorErrors: New page: Actor attachment
+[2021.05.26-20.55.32:196][618]EditorErrors: New page: Actor attachment
+[2021.05.26-20.55.52:708][679]LogSlate: Window 'Message' being destroyed
+[2021.05.26-20.55.52:726][679]Message dialog closed, result: No, title: Message, text: The following packages were fixed up because they have soft references to a renamed object: 
+
+/Game/Level/02_AS_Building_Structure
+/Game/Level/2_Level0_OutSide_3
+
+Do you want to save them now?
+If you quit without saving references will be broken!
+[2021.05.26-20.56.16:648][869]Cmd: SELECT NONE
+[2021.05.26-20.56.16:867][874]Cmd: SELECT NONE
+[2021.05.26-20.56.20:122][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Object__steel_block_0)
+[2021.05.26-20.56.21:824][ 97]Cmd: SELECT NONE
+[2021.05.26-20.56.21:996][102]Cmd: SELECT NONE
+[2021.05.26-20.56.33:621][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.05.26-20.56.34:977][649]LogSlate: Window 'Save Content' being destroyed
+[2021.05.26-20.56.35:029][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.05.26-20.56.35:553][649]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/02_AS_Building_Structure97E06D6445D7C69E7E54A08957BC0342.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/02_AS_Building_Structure.umap'
+[2021.05.26-20.56.35:556][649]LogFileHelpers: Saving map '02_AS_Building_Structure' took 0.536
+[2021.05.26-20.56.35:565][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.05.26-20.56.35:568][649]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/2_Level0_OutSide_3B4C056B147DB79A66FC817BFF7A87C5E.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/2_Level0_OutSide_3.umap'
+[2021.05.26-20.56.35:569][649]LogFileHelpers: Saving map '2_Level0_OutSide_3' took 0.013
+[2021.05.26-20.56.35:579][649]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.05.26-20.56.35:615][649]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/StartupMap007E634E46D1536E4E57C890F14D4675.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/VirtualRealityBP/Maps/StartupMap.umap'
+[2021.05.26-20.56.35:641][649]LogFileHelpers: Saving map 'StartupMap' took 0.072
+[2021.05.26-20.56.35:655][649]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-20.56.35:656][649]LogContentValidation: Display: Validating World /Game/VirtualRealityBP/Maps/StartupMap.StartupMap
+[2021.05.26-20.56.35:656][649]LogContentValidation: Display: Validating World /Game/Level/2_Level0_OutSide_3.2_Level0_OutSide_3
+[2021.05.26-20.56.35:656][649]LogContentValidation: Display: Validating World /Game/Level/02_AS_Building_Structure.02_AS_Building_Structure
+[2021.05.26-20.56.40:388][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
