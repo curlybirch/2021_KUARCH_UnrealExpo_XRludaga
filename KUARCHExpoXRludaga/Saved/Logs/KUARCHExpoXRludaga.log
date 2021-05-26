@@ -2149,3 +2149,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.26-20.14.39:845][361]LogContentValidation: Display: Validating World /Game/Level/03_AC_ETFC.03_AC_ETFC
 [2021.05.26-20.14.39:846][361]LogContentValidation: Display: Validating World /Game/Level/03_AC_Freeform_Facade.03_AC_Freeform_Facade
 [2021.05.26-20.14.39:846][361]LogContentValidation: Display: Validating StaticMesh /Game/magok_ALL/Geometries/ETF_FRM_GR5_6_7_8.ETF_FRM_GR5_6_7_8
+[2021.05.26-20.24.02:835][338]LogActorFactory: Actor Factory created Render_Material_255-255-255_0_2
+[2021.05.26-20.24.03:765][381]LogActorFactory: Actor Factory created Render_Material_255-255-255_0_2
+[2021.05.26-20.24.44:456][291]Cmd: TRANSACTION UNDO
+[2021.05.26-20.24.44:456][291]LogEditorTransaction: Undo Set Rotation
+[2021.05.26-20.24.59:344][952]LogEditorViewport: Clicking Background
+[2021.05.26-20.25.05:773][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.25.27:277][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_2)
+[2021.05.26-20.25.31:595][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.25.32:464][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.25.37:571][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.25.38:382][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.25.39:097][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.25.39:641][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_4)
+[2021.05.26-20.27.36:064][210]LogActorFactory: Actor Factory created Render_Material_255-255-255_0_2
+[2021.05.26-20.27.37:917][318]LogActorFactory: Actor Factory created Render_Material_255-255-255_0_2
+[2021.05.26-20.27.39:864][416]Cmd: DELETE
+[2021.05.26-20.27.39:865][416]Cmd: ACTOR DELETE
+[2021.05.26-20.27.39:877][416]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-20.27.39:885][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.05.26-20.27.39:890][416]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.05.26-20.29.03:525][631]Cmd: DELETE
+[2021.05.26-20.29.03:525][631]Cmd: ACTOR DELETE
+[2021.05.26-20.29.03:538][631]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-20.29.03:544][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.05.26-20.29.03:548][631]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.05.26-20.29.05:261][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_2)
+[2021.05.26-20.30.01:253][316]LogEditorViewport: Clicking Background
+[2021.05.26-20.30.08:028][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_2)
+[2021.05.26-20.30.09:898][138]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_3)
+[2021.05.26-20.30.10:959][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_2)
+[2021.05.26-20.30.23:187][286]LogActorFactory: Actor Factory created Render_Material_255-255-255_0_3
+[2021.05.26-20.30.28:142][453]LogSlate: Window 'Actor Placement Warning' being destroyed
+[2021.05.26-20.30.28:151][453]Message dialog closed, result: Ok, title: Actor Placement Warning, text: The actor will be placed outside the bounds of the current level. Continue?
+[2021.05.26-20.30.28:152][453]LogActorFactory: Actor Factory created Render_Material_255-255-255_0_3
+[2021.05.26-20.30.41:306][533]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.05.26-20.30.41:317][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.05.26-20.30.41:320][533]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.05.26-20.30.44:199][758]EditorErrors: New page: Actor attachment
+[2021.05.26-20.31.51:889][517]LogEditorViewport: Clicking Background
+[2021.05.26-20.32.06:747][846]LogEditorViewport: Clicking Background
+[2021.05.26-20.32.39:357][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Render_Material_255-255-255_0_Main_수정해야함)
+[2021.05.26-20.34.36:311][669]Cmd: SELECT NONE
+[2021.05.26-20.34.36:476][674]Cmd: SELECT NONE
+[2021.05.26-20.35.04:930][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.05.26-20.35.06:631][100]LogSlate: Window 'Save Content' being destroyed
+[2021.05.26-20.35.06:676][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.05.26-20.35.07:211][100]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/02_AS_Building_StructureCA84C95C47F30D2292B0B8A494DE7A01.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/02_AS_Building_Structure.umap'
+[2021.05.26-20.35.07:215][100]LogFileHelpers: Saving map '02_AS_Building_Structure' took 0.548
+[2021.05.26-20.35.07:223][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.05.26-20.35.07:227][100]LogSavePackage: Moving '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Saved/03_AC_ETFCA0C3861A449F6003C4AB589D4B12A224.tmp' to '../../../../../../Users/curly/Documents/2021_KUARCH_UnrealExpo_XRludaga/KUARCHExpoXRludaga/Content/Level/03_AC_ETFC.umap'
+[2021.05.26-20.35.07:228][100]LogFileHelpers: Saving map '03_AC_ETFC' took 0.013
+[2021.05.26-20.35.07:243][100]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.26-20.35.07:243][100]LogContentValidation: Display: Validating World /Game/Level/02_AS_Building_Structure.02_AS_Building_Structure
+[2021.05.26-20.35.07:243][100]LogContentValidation: Display: Validating World /Game/Level/03_AC_ETFC.03_AC_ETFC
