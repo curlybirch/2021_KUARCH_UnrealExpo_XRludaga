@@ -46,7 +46,7 @@ KUARCHExpoXRludaga/SourceArt/**/*.png
 KUARCHExpoXRludaga/SourceArt/**/*.tga
 
 # Binary Files
-Binaries/*
+KUARCHExpoXRludaga/Binaries/*
 KUARCHExpoXRludaga/Plugins/*/Binaries/*
 
 # Builds
@@ -71,4 +71,4 @@ KUARCHExpoXRludaga/Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
-DerivedDataCache/*
+KUARCHExpoXRludaga/DerivedDataCache/*
