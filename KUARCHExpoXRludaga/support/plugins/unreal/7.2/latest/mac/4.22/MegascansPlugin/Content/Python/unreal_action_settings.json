@@ -1,0 +1,255 @@
+{
+  "msAsset": {
+    "global": {
+      "materialPrefs": {
+        "selectedMaterial": "None",
+        "enforceSettings": true,
+        "materialList": [
+          "MasterMaterial_W",
+          "None"
+        ],
+        "applySelection": true
+      },
+      "lodSettings": {
+        "enforceSettings": true,
+        "includeLods": [
+          1,
+          2,
+          3
+        ],
+        "numberOfLods": "None",
+        "generateExtraLods": true
+      },
+      "texturePrefs": {
+        "enforceSettings": true,
+        "textureFilter": {
+          "opacity": true,
+          "normal": true,
+          "bump": true,
+          "gloss": true,
+          "displacement": true,
+          "ao": true,
+          "thickness": true,
+          "cavity": true,
+          "specular": true,
+          "normalbump": true,
+          "translucency": true,
+          "albedo": true,
+          "roughness": true,
+          "diffuse": true,
+          "fuzz": true,
+          "metalness": true
+        }
+      }
+    },
+    "3dplant": {
+      "miscOptions": {
+        "enforceSettings": true,
+        "createFoliage": true,
+        "linearWorkflow": true,
+        "applyWind": false
+      },
+      "materialPrefs": {
+        "selectedMaterial": "Foliage_Material",
+        "enforceSettings": true,
+        "materialList": [
+          "Foliage_Material",
+          "None"
+        ],
+        "applySelection": true
+      },
+      "lodSettings": {
+        "enforceSettings": true,
+        "includeLods": [
+          1,
+          2,
+          3
+        ],
+        "numberOfLods": "None",
+        "generateExtraLods": true
+      },
+      "destinationPrefs": {
+        "texturesDestination": "{AssetType}",
+        "materialDestination": "{AssetType}",
+        "meshDestination": "{AssetType}"
+      },
+      "renamePrefs": {
+        "mesh": "{hello_there}_{mesh_name}",
+        "texture": "{AssetName}_{TextureName}_{TextureType}",
+        "materialInst": "{AssetName}_inst"
+      },
+      "texturePrefs": {
+        "enforceSettings": true,
+        "textureFilter": {
+          "opacity": true,
+          "normal": true,
+          "bump": true,
+          "gloss": true,
+          "displacement": true,
+          "ao": true,
+          "thickness": true,
+          "cavity": true,
+          "specular": true,
+          "normalbump": true,
+          "translucency": true,
+          "albedo": true,
+          "roughness": true,
+          "diffuse": true,
+          "fuzz": true,
+          "metalness": true
+        }
+      }
+    },
+    "atlas": {
+      "miscOptions": {
+        "enforcSettings": true,
+        "linearWorkflow": true
+      },
+      "materialPrefs": {
+        "selectedMaterial": "Atlas_Material",
+        "enforceSettings": true,
+        "materialList": [
+          "Atlas_Material",
+          "None"
+        ],
+        "applySelection": true
+      },
+      "destinationPrefs": {
+        "texturesDestination": "{AssetType}",
+        "materialDestination": "{AssetType}",
+        "meshDestination": "{AssetType}"
+      },
+      "renamePrefs": {
+        "mesh": "{hello_there}_{mesh_name}",
+        "texture": "{AssetName}_{TextureName}_{TextureType}",
+        "materialInst": "{AssetName}_inst"
+      },
+      "texturePrefs": {
+        "enforceSettings": true,
+        "textureFilter": {
+          "opacity": true,
+          "normal": true,
+          "bump": true,
+          "gloss": true,
+          "displacement": true,
+          "ao": true,
+          "thickness": true,
+          "cavity": true,
+          "specular": true,
+          "normalbump": true,
+          "translucency": true,
+          "albedo": true,
+          "roughness": true,
+          "diffuse": true,
+          "fuzz": true,
+          "metalness": true
+        }
+      }
+    },
+    "surface": {
+      "miscOptions": {
+        "enforcSettings": true,
+        "linearWorkflow": true
+      },
+      "materialPrefs": {
+        "selectedMaterial": "MS_DefaultMaterial",
+        "enforceSettings": true,
+        "materialList": [
+          "MS_DefaultMaterial",
+          "None"
+        ],
+        "applySelection": true
+      },
+      "destinationPrefs": {
+        "texturesDestination": "{AssetType}",
+        "materialDestination": "{AssetType}",
+        "meshDestination": "{AssetType}"
+      },
+      "renamePrefs": {
+        "mesh": "{hello_there}_{mesh_name}",
+        "texture": "{AssetName}_{TextureName}_{TextureType}",
+        "materialInst": "{AssetName}_inst"
+      },
+      "texturePrefs": {
+        "enforceSettings": true,
+        "textureFilter": {
+          "opacity": true,
+          "normal": true,
+          "bump": true,
+          "gloss": true,
+          "displacement": true,
+          "ao": true,
+          "thickness": true,
+          "cavity": true,
+          "specular": true,
+          "normalbump": true,
+          "translucency": true,
+          "albedo": true,
+          "roughness": true,
+          "diffuse": true,
+          "fuzz": true,
+          "metalness": true
+        }
+      }
+    },
+    "3d": {
+      "miscOptions": {
+        "placeInLevel": false,
+        "enforceSettings": true,
+        "scatterCreateFoliage": true,
+        "excludeHighpoly": true,
+        "linearWorkflow": true
+      },
+      "materialPrefs": {
+        "selectedMaterial": "MS_DefaultMaterial",
+        "enforceSettings": true,
+        "materialList": [
+          "MS_DefaultMaterial",
+          "None"
+        ],
+        "applySelection": true
+      },
+      "lodSettings": {
+        "enforceSettings": true,
+        "includeLods": [
+          1,
+          2,
+          3
+        ],
+        "numberOfLods": "None",
+        "generateExtraLods": true
+      },
+      "texturePrefs": {
+        "enforceSettings": true,
+        "textureFilter": {
+          "opacity": true,
+          "normal": true,
+          "bump": true,
+          "gloss": true,
+          "displacement": true,
+          "ao": true,
+          "thickness": true,
+          "cavity": true,
+          "specular": true,
+          "normalbump": true,
+          "translucency": true,
+          "albedo": true,
+          "roughness": true,
+          "diffuse": true,
+          "fuzz": true,
+          "metalness": true
+        }
+      },
+      "renamePrefs": {
+        "mesh": "{hello_there}_{mesh_name}",
+        "texture": "{AssetName}_{TextureName}_{TextureType}",
+        "materialInst": "{AssetName}_inst"
+      },
+      "destinationPrefs": {
+        "texturesDestination": "{AssetType}",
+        "materialDestination": "{AssetType}",
+        "meshDestination": "{AssetType}"
+      }
+    }
+  }
+}
